@@ -1,0 +1,83 @@
+.navbar  .navigator
+.caret .cat
+.tabel-bordered .table-border    
+
+.responsive-img{width:100%;}
+.row{margin: 0px;}
+.img-responsive .responsive-img
+.thumbnail .thumb
+.carousel .slider
+.carousel-inner .slider-in
+.img-rounded  .round-img
+.img-thumbnail .thumb-img
+.img-circle .circle-img
+.lead .pencil
+.mark .highlight
+.text-primary .text-blue
+.text-success .text-green
+.text-info .text-lightblue
+.text-warning .text-yellow
+.text-danger .text-red
+.bg-primary .bg-blue
+.bg-success .bg-green
+.bg-info .bg-lightblue
+.bg-warning .bg-orange
+.bg-danger .bg-red
+.page-header .header
+.list-unstyle .list-nostyle
+.list-inline .inline-list
+.initialize .basefont
+.pre-scrollable .scrollable-box 
+.container .box
+.container-fluid .box-spacing
+.col-xs .little
+.col-sm .small
+.col-md .medium
+.col-lg .large
+.little-offset,.small-offset,.medium-offset,.large-offset    .little-spacing,.small-spacing,.medium-spacing,.large-spacing
+.form-control .input-style
+.input-sm .input-small
+.form-group-sm .form-group-small
+.form-group-lg .form-group-large
+.form-horizontal .inline-form
+.btn-default .btn-simple
+.btn-primary .btn-blue
+.btn-info .btn-lightblue
+.btn-success .btn-green
+.btn-danger .btn-red
+.btn-warning .btn-orange
+.btn-xs,.btn-sm,.btn-lg .btn-little,.btn-small,.btn-large
+.btn-group-xs,.btn-group-sm,.btn-group-lg .btn-group-little,.btn-group-small,.btn-group-large
+.btn-block .full-btn
+.divider .seperator
+.dropdown-menu .dropdown-list
+.pull-right .float-right
+.pull-left .float-left
+xs,sm,md,lg little, small,medium,large
+.jumbotron .tron
+.list-group-item-success .list-group-item-green
+.list-group-item-info .list-group-item-lightblue
+.list-group-item-warning .list-group-item-orange
+.list-group-item-danger .list-group-item-red
+.panel .board
+.modal .popup
+.affix .fix
+tooltip hint
+data-spy="scroll" scroll-linker="scroll"
+scrollspy scrolllinker
+ScrollSpy ScrollLinker
+$spy $linker
+modal popup
+Modal Popup
+.dropdown .droplist, dropdown droplist
+Dropdown Droplist
+.nav-tabs .nav-tab
+.alert .notify
+Alert,alert Notify,notify
+label-primary label-blue, info lightblue, danger red, warning orange, success green, default simple
+
+
+
+;;commit;;
+
+
